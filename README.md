@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fashion Hub - Blog</title>
+  <title>Fashion Hub - About</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,10 +22,10 @@
     </div>
   </header>
 
-  <section class="blog">
+  <section class="about">
     <div class="container">
-      <h2>Latest Fashion Tips</h2>
-      <p>Explore the latest trends and timeless fashion tips on our blog.</p>
+      <h2>About Fashion Hub</h2>
+      <p>Fashion Hub is dedicated to bringing you the best in fashion and design. Our team works tirelessly to curate collections that blend quality with style, ensuring you always look your best.</p>
     </div>
   </section>
 
